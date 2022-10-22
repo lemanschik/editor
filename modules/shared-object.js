@@ -7,7 +7,8 @@
  * references cross context via './modules/context.js?id=ContextID'
  * note: import puts a reference into the Module Cache indexed by Url
  */
-export const sharedBuffer = {};
+export const sharedObject = {};
+export const sharedBuffer = [];
 
 // tip: create a handle (reference to the context) register event listners on it.
 // export them as reuseable module use this most best as value for a textbox maybe? :)
