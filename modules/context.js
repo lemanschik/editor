@@ -7,4 +7,4 @@
 export const context = ``;
 
 // tip: create a handle (reference to the context) register event listners on it.
-// export them as reuseable module
+// export them as reuseable module use this most best as value for a textbox maybe? :)
