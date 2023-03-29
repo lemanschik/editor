@@ -13,4 +13,6 @@ under /modules created via /build composed into usefull IDE's for diffrent useca
     - With serviceWorker
 - jupyterlite interface integration as Code-OSS Extension
 - code-oss extension for jupyterlite
-- universal container api and build extension for all that editors. 
+- universal container api and build extension for all that editors.
+  - Running emscript in the browser 
+  - x86 and RISC-V including p9 filesystem and http remote block device support virtio bindings 
