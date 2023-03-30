@@ -16,3 +16,9 @@ under /modules created via /build composed into usefull IDE's for diffrent useca
 - universal container api and build extension for all that editors.
   - Running emscript in the browser 
   - x86 and RISC-V including p9 filesystem and http remote block device support virtio bindings 
+  - https://github.com/direktspeed/stackblitz-integration offers container API Export interfaces
+    - push to github branch
+    - download tar.gz
+    - webrtc share via local-webrtc module from direktspeed
+
+
